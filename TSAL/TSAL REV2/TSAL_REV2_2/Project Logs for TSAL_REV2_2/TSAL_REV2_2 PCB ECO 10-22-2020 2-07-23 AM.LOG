@@ -1,0 +1,18 @@
+Added Component: Designator=FI1(Fiducial)
+Add component (AddParameter): Name = "Category"; Value = "Misc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=FI2(Fiducial)
+Add component (AddParameter): Name = "Category"; Value = "Misc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=FI3(Fiducial)
+Add component (AddParameter): Name = "Category"; Value = "Misc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=FI4(Fiducial)
+Add component (AddParameter): Name = "Category"; Value = "Misc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=FI5(Fiducial)
+Add component (AddParameter): Name = "Category"; Value = "Misc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=FI6(Fiducial)
+Add component (AddParameter): Name = "Category"; Value = "Misc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"

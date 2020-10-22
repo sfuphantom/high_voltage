@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Component: Designator=MH1(MH4.2MM)
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Component: Designator=MH2(MH4.2MM)
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Component: Designator=MH3(MH4.2MM)
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Component: Designator=MH4(MH4.2MM)
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH4-1
