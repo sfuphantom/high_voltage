@@ -1,0 +1,2 @@
+Add Pin To Net: Pin=F1-1 Old Net=NetF1_1 New Net=D+HV
+Add Pin To Net: Pin=R3-1 Old Net=NetR3_1 New Net=HV_GND

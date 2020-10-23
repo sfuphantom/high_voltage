@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=D+HV Pin=F1-1
+Removed Pin From Net: NetName=HV_GND Pin=R3-1
+Added Class: Name=TSAL_REV2_2
+Added Room: Name=TSAL_REV2_2
