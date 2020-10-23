@@ -1,0 +1,26 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 15 0.74 1.045 0 N JP6 Testpoint2 ;0=1,1=0.0000
+TOP 0 0.74 1.045 180 N 12 0 JP6-1
+#
+# CMP 1
+CMP 15 0.51 0.365 0 N JP5 Testpoint2 ;0=1,1=0.0000
+TOP 0 0.51 0.365 180 N 5 2 JP5-1
+#
+# CMP 2
+CMP 15 0.335 0.365 0 N JP4 Testpoint2 ;0=1,1=0.0000
+TOP 0 0.335 0.365 180 N 11 1 JP4-1
+#
+# CMP 3
+CMP 15 0.66 0.365 0 N JP3 Testpoint2 ;0=1,1=0.0000
+TOP 0 0.66 0.365 180 N 2 4 JP3-1
+#
+# CMP 4
+CMP 15 2.14 0.585 0 N JP1 Testpoint2 ;0=1,1=0.0000
+TOP 0 2.14 0.585 180 N 10 3 JP1-1
+#

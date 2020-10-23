@@ -1,0 +1,26 @@
+#Layer_Color=128
+#
+#Feature symbol names
+#
+$0 r78.7402
+
+#
+#Feature attribute names
+#
+@0 .geometry
+@1 .pad_usage
+
+#
+#Feature attribute text strings
+#
+&0 SMD_RoundX78.7402Y78.7402
+
+#
+#Layer features
+#
+P 0.335 0.365 0 P 0 0 ;0=0,1=0
+P 0.51 0.365 0 P 0 0 ;0=0,1=0
+P 0.66 0.365 0 P 0 0 ;0=0,1=0
+P 0.74 1.045 0 P 0 0 ;0=0,1=0
+P 2.12 0.715 0 P 0 0 ;0=0,1=0
+P 2.14 0.585 0 P 0 0 ;0=0,1=0

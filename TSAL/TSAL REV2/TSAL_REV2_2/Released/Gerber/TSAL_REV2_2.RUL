@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\Gaming\Documents\TeamPhantom\high_voltage\TSAL\TSAL REV2\TSAL_REV2_2\TSAL_REV2_2.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Via|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Stitching HV_GND|Scope=Board|Minimum=5.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00

@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [TSAL_REV2_2.PcbDoc]
+   Generated File[Bill of Materials-TSAL_REV2_2.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:58:01 PM On 10/23/2020
