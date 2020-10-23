@@ -1,0 +1,3 @@
+Added Component: Designator=JP2(TP2)
+Added Pin To Net: NetName=EXCEED_LED-_RED Pin=JP2-1
+Added Member To Class: ClassName=TSAL_REV2_2 Member=Component JP2 Testpoint2
