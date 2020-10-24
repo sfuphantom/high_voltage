@@ -1,0 +1,38 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Added Component: Designator=JP1(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP2(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP3(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP4(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP5(TP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH1(MH4.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Component: Designator=MH2(MH4.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Component: Designator=MH3(MH4.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Component: Designator=MH4(MH4.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "TH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TS Pin=JP1-1
+Added Pin To Net: NetName=OPTO_OUT Pin=JP2-1
+Added Pin To Net: NetName=D+60V_HV Pin=JP3-1
+Added Pin To Net: NetName=HV_GND Pin=JP4-1
+Added Pin To Net: NetName=D+5V_TS Pin=JP5-1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD1_1
+Added Member To Class: ClassName=AIL_REV2 Member=Component JP1 Testpoint2
+Added Member To Class: ClassName=AIL_REV2 Member=Component JP2 Testpoint2
+Added Member To Class: ClassName=AIL_REV2 Member=Component JP3 Testpoint2
+Added Member To Class: ClassName=AIL_REV2 Member=Component JP4 Testpoint2
+Added Member To Class: ClassName=AIL_REV2 Member=Component JP5 Testpoint2
+Added Member To Class: ClassName=AIL_REV2 Member=Component MH1 MountingHole
+Added Member To Class: ClassName=AIL_REV2 Member=Component MH2 MountingHole
+Added Member To Class: ClassName=AIL_REV2 Member=Component MH3 MountingHole
+Added Member To Class: ClassName=AIL_REV2 Member=Component MH4 MountingHole
