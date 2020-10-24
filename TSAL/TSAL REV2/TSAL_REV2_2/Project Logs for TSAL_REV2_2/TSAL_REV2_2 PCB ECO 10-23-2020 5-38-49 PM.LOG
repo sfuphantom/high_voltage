@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=D+HV Pin=F1-1
+Removed Pin From Net: NetName=D+HV Pin=J2-2
+Removed Pin From Net: NetName=D+LV Pin=JP1-1
+Removed Pin From Net: NetName=EXCEED_GATE Pin=R6-1
+Removed Pin From Net: NetName=HV_GND Pin=U3-2
+Removed Member From Class: ClassName=HV Member=D+HV
+Removed Member From Class: ClassName=LV Member=D+LV
+Change Net Name : Old Net Name=D+LV New Net Name=SAFE_LED+_GREEN
+Change Net Name : Old Net Name=EXCEED_GATE New Net Name=GATE_CTRL
+Added Pin To Net: NetName=D+60V_HV Pin=F1-1
+Added Pin To Net: NetName=D+60V_HV Pin=J2-2
+Added Net: Name=D+60V_HV
+Added Pin To Net: NetName=D+LV Pin=JP1-1
+Added Net: Name=D+LV
+Added Pin To Net: NetName=EXCEED_GATE Pin=R6-1
+Added Net: Name=EXCEED_GATE
+Added Member To Class: ClassName=HV Member=Wire D+60V_HV
+Added Member To Class: ClassName=LV Member=Wire SAFE_LED+_GREEN

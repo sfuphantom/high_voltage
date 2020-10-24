@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=HV_GND Pin=U3-2
+Change Net Name : Old Net Name=EXCEED_LED+_RED New Net Name=TSAL_RED+
+Change Net Name : Old Net Name=EXCEED_LED-_RED New Net Name=LV_GND
+Change Net Name : Old Net Name=SAFE_LED-_GREEN New Net Name=TSAL_GREEN-

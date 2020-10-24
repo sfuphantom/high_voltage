@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=LV Member=SAFE_LED+_GREEN
+Added Pin To Net: NetName=SAFE_LED+_GREEN Pin=JP1-1
+Added Pin To Net: NetName=D+60V_HV Pin=JP4-1
+Added Pin To Net: NetName=GATE_CTRL Pin=R6-1
+Change Net Name : Old Net Name=EXCEED_GATE_LED New Net Name=GATE_CTRL_LED
+Change Net Name : Old Net Name=SAFE_LED+_GREEN New Net Name=D+12V_LV
+Added Member To Class: ClassName=LV Member=Wire D+12V_LV
