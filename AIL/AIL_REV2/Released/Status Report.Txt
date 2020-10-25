@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [AIL_REV2.PcbDoc]
+   Generated File[Bill of Materials-AIL_REV2.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:17:56 PM On 2020-10-24
