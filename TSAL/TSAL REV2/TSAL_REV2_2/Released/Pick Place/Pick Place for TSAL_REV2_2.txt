@@ -1,30 +1,30 @@
 Altium Designer Pick and Place Locations
-C:\Users\jtsang451\Documents\TeamPhantom\high_voltage\TSAL\TSAL REV2\TSAL_REV2_2\Released\Pick Place\Pick Place for TSAL_REV2_2.txt
+C:\Users\Gaming\Documents\TeamPhantom\high_voltage\TSAL\TSAL REV2\TSAL_REV2_2\Released\Pick Place\Pick Place for TSAL_REV2_2.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       25-10-20
-Time:       02:27
+Date:       27/10/20
+Time:       22:40
 Revision:   8c992db3482697304a0fa93f540cf355637b1474
 Variant:    No variations
 Units used: mil
 
 Designator     Comment                 Layer       Footprint  Center-X(mil) Center-Y(mil) Rotation Description                        
 J1             WM4928-ND               TopLayer    6PIN       1879.134      216.535       360      "CONN HEADER R/A 6POS 2.54MM"      
-"JP2 LV_GND"   Testpoint2              TopLayer    TP2        2120.000      715.000       0        "Single layer pad TP"              
+"JP2 LV_GND"   Testpoint2              TopLayer    TP2        2166.500      657.000       0        "Single layer pad TP"              
 R2             110K                    TopLayer    RES-0805   852.835       818.898       180      "RES SMD 110K OHM 1% 1/8W 0805"    
 U3             NCV5501DT50RKGOSCT-ND   TopLayer    DPAK-TO252 522.638       956.693       180      "IC REG LINEAR 5V 500MA DPAK"      
 U2             516-1787-1-ND           TopLayer    4-SSOP     1244.094      614.173       360      "OPTOISO 3.75KV TRANS 4MINIFLAT"   
 U1             497-6777-1-ND           TopLayer    SOT-23-5   838.583       704.724       180      "IC COMPARATOR R-R MCRPWR SOT23-5" 
 R7             "280R 1%"               TopLayer    RES-0603   720.000       1170.512      90       "RES SMD 280 OHM 1% 1/10W 0603"    
-R6             "1K 1%"                 TopLayer    RES-0603   1570.866      630.905       270      "RES SMD 1K OHM 1% 1/10W 0603"     
-R5             "30K 1%"                TopLayer    RES-0603   1543.307      539.370       180      "RES SMD 30K OHM 1% 1/10W 0603"    
-R4             "73.2K 1%"              TopLayer    RES-0603   1511.811      629.921       90       "RES SMD 73.2K OHM 1% 1/10W 0603"  
+R6             "1K 1%"                 TopLayer    RES-0603   1643.000      763.512       270      "RES SMD 1K OHM 1% 1/10W 0603"     
+R5             "30K 1%"                TopLayer    RES-0603   1615.441      671.976       180      "RES SMD 30K OHM 1% 1/10W 0603"    
+R4             "73.2K 1%"              TopLayer    RES-0603   1583.945      762.528       90       "RES SMD 73.2K OHM 1% 1/10W 0603"  
 R3             "10K 1%"                TopLayer    RES-0805   852.835       897.638       360      "RES SMD 10K OHM 1% 1/8W 0805"     
-R1             "20K 1%"                TopLayer    RES-0603   2027.559      615.158       270      "RES SMD 20K OHM 1% 1/10W 0603"    
-Q2             NTD2955T4GOSCT-ND       TopLayer    DPAK-TO252 1846.457      567.913       270      "MOSFET P-CH 60V 12A DPAK"         
-Q1             IPD50N06S4L12ATMA2CT-ND TopLayer    DPAK-TO252 2027.559      957.677       90       "MOSFET N-CH 60V 50A TO252-3"      
+R1             "20K 1%"                TopLayer    RES-0603   2109.000      557.012       270      "RES SMD 20K OHM 1% 1/10W 0603"    
+Q2             NTD2955T4GOSCT-ND       TopLayer    DPAK-TO252 1935.457      545.413       270      "MOSFET P-CH 60V 12A DPAK"         
+Q1             IPD50N06S4L12ATMA2CT-ND TopLayer    DPAK-TO252 2116.559      935.177       90       "MOSFET N-CH 60V 50A TO252-3"      
 MH4            MountingHole            TopLayer    MH4.2MM    2401.575      157.480       0        "Mounting hole, 4.2mm"             
 MH3            MountingHole            TopLayer    MH4.2MM    2401.575      1220.472      0        "Mounting hole, 4.2mm"             
 MH2            MountingHole            TopLayer    MH4.2MM    157.480       157.480       0        "Mounting hole, 4.2mm"             
@@ -33,11 +33,11 @@ MH1            MountingHole            TopLayer    MH4.2MM    157.480       1220
 "JP5 HV_GND"   Testpoint2              BottomLayer TP2        510.000       365.000       180      "Single layer pad TP"              
 "JP4 D+60V_HV" Testpoint2              BottomLayer TP2        335.000       365.000       180      "Single layer pad TP"              
 "JP3 TS"       Testpoint2              BottomLayer TP2        660.000       365.000       180      "Single layer pad TP"              
-"JP1 D+12V_LV" Testpoint2              BottomLayer TP2        2140.000      585.000       180      "Single layer pad TP"              
+"JP1 D+12V_LV" Testpoint2              BottomLayer TP2        2163.500      393.500       180      "Single layer pad TP"              
 J3             WM4153-ND               TopLayer    2PIN       2283.465      538.189       90       "CONN HEADER R/A 2POS 2.54MM"      
 J2             WM4153-ND               TopLayer    2PIN       216.535       679.921       270      "CONN HEADER R/A 2POS 2.54MM"      
 F1             "250V 800mA"            TopLayer    Fuse-10x3  495.158       495.000       360      "FUSE SMT 3912 FAST 250V 800MA"    
 D2             Green                   TopLayer    LED-0603   628.504       1210.000      360      "LED GREEN CLEAR 0603 SMD"         
-D1             Green                   TopLayer    LED-0603   1629.921      570.866       90       "LED GREEN CLEAR 0603 SMD"         
+D1             Green                   TopLayer    LED-0603   1702.055      703.472       90       "LED GREEN CLEAR 0603 SMD"         
 C2             "2.2uF 450V"            TopLayer    CAP-2220   570.000       690.000       180      "CAP CER 2.2UF 450V X6S 2220"      
 C1             "22uF 10V"              TopLayer    CAP-0805   618.110       1141.732      360      "CAP CER 22UF 10V X5R 0805"        
