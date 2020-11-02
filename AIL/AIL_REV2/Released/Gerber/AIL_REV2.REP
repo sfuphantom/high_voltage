@@ -2,8 +2,10 @@
 FileName = AIL_REV2.GBR
 AutoAperture = True
 *************************************************************
-Generating : Multi-Layer
-      File : AIL_REV2.GML
+Generating : Top Pad Master
+      File : AIL_REV2.GPT
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
@@ -23,8 +25,119 @@ Used DCodes :
     D13
     D14
     D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : AIL_REV2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : AIL_REV2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D40
     D41
     D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : AIL_REV2.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D43
+    D44
 *************************************************************
 
 *************************************************************
@@ -52,10 +165,234 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Board Outline
+      File : AIL_REV2.GM2
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : AIL_REV2.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : AIL_REV2.GML
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D43
+    D44
+*************************************************************
+
+*************************************************************
 Generating : Keep-Out Layer
       File : AIL_REV2.GKO
 
     Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : AIL_REV2.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : AIL_REV2.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : AIL_REV2.1
+
+    Adding Layer      : Dielectric 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : AIL_REV2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : AIL_REV2.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : AIL_REV2.GM13
+
+    Adding Layer      : Mechanical 13
 
     Adding Layer      : Mechanical 1
 
@@ -111,206 +448,7 @@ Used DCodes :
     D23
     D24
     D25
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : AIL_REV2.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : AIL_REV2.GM13
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : AIL_REV2.GM1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : AIL_REV2.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-    D36
-    D37
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : AIL_REV2.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-    D39
-    D41
-    D42
-    D43
-    D44
-*************************************************************
-
-*************************************************************
-Generating : Dielectric 1
-      File : AIL_REV2.1
-
-    Adding Layer      : Dielectric 1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : AIL_REV2.GBO
-
-    Adding Layer      : Bottom Overlay
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
+    D26
 *************************************************************
 
 *************************************************************
@@ -339,7 +477,6 @@ Used DCodes :
     D13
     D14
     D15
-    D26
     D27
     D28
     D29
@@ -351,51 +488,15 @@ Used DCodes :
     D35
     D36
     D37
+    D38
+    D39
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : AIL_REV2.GPT
+Generating : Bottom Solder
+      File : AIL_REV2.GBS
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D41
-    D42
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : AIL_REV2.GBP
-
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Mechanical 1
 
@@ -417,109 +518,7 @@ Used DCodes :
     D13
     D14
     D15
-    D44
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : AIL_REV2.GM2
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : AIL_REV2.GM15
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : AIL_REV2.GTO
-
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : AIL_REV2.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-    D41
-    D42
-    D44
+    D38
+    D39
 *************************************************************
 

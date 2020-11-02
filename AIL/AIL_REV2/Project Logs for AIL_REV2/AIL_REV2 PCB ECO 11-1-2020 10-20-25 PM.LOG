@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TS Pin=JP1 TS-1
+Removed Pin From Net: NetName=D+60V_HV Pin=JP3 D+60V_HV-1
+Removed Pin From Net: NetName=HV_GND Pin=JP4 HV_GND-1
+Change Component Designator: OldDesignator=JP2 HIGH_OUT NewDesignator=JP1
+Change Component Designator: OldDesignator=JP5 D+5V_TS NewDesignator=JP2
+Added Member To Class: ClassName=AIL_REV2 Member=Component JP1 Testpoint2
+Added Member To Class: ClassName=AIL_REV2 Member=Component JP2 Testpoint2
+Added Member To Class: ClassName=AIL_REV2 Member=Component R3 10K

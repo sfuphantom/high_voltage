@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=OneNote for Windows 10
+TargetPrinter=HP Photosmart 5520 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -221,9 +221,9 @@ Configuration11_Name1=OutputConfigurationParameter1
 Configuration11_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1,16908290~1,16908291~1,16908301~1,16908303~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set="All Layers","Component Layers","Signal Layers","Electrical Layers"|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [PublishSettings]
-OutputFilePath2=C:\Users\jtsang451\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\
+OutputFilePath2=C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\jtsang451\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\
+OutputBasePath2=C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\
 OutputPathMedia2=Released
 OutputPathMediaValue2=Released
 OutputPathOutputer2=
@@ -248,9 +248,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\jtsang451\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\
+OutputFilePath3=C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\
 ReleaseManaged3=0
-OutputBasePath3=C:\Users\jtsang451\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\
+OutputBasePath3=C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\
 OutputPathMedia3=Released
 OutputPathMediaValue3=Released
 OutputPathOutputer3=[Output Type]
@@ -300,9 +300,9 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\jtsang451\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\
+RelativeOutputPath2=C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\jtsang451\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\
+RelativeOutputPath3=C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
