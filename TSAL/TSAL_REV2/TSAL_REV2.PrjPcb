@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for TSAL_REV2
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -94,11 +94,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Released\BOM\Bill of Materials-TSAL_REV2_2.xlsx
+DocumentPath=Released\BOM\Bill of Materials-TSAL_REV2.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Released\BOM\Bill of Materials-TSAL_REV2_2.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
@@ -110,110 +110,146 @@ DocumentPath=Released\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for TSAL_REV2_2\Design Rule Check - TSAL_REV2_2.html
+DocumentPath=Project Outputs for TSAL_REV2\Design Rule Check - TSAL_REV2.html
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Released\Test Points\Fabrication Testpoint Report for TSAL_REV2_2.csv
+DocumentPath=Project Outputs for TSAL_REV2_2\Design Rule Check - TSAL_REV2_2.html
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Released\Test Points\Fabrication Testpoint Report for TSAL_REV2.csv
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Released\Test Points\Fabrication Testpoint Report for TSAL_REV2_2.csv
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Released\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Released\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Released\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Released\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\drill\features
+DocumentPath=Released\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DocumentPath=Released\ODB\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Released\ODB\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Released\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Released\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Released\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Released\ODB\odb\matrix\matrix
+DocumentPath=Released\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Released\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Released\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Released\Pick Place\Pick Place for TSAL_REV2_2.txt
+DocumentPath=Released\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Released\ODB\odb\steps\pcb\profile
+DocumentPath=Released\Pick Place\Pick Place for TSAL_REV2.txt
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Released\ODB\odb\steps\pcb\stephdr
+DocumentPath=Released\Pick Place\Pick Place for TSAL_REV2_2.txt
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Released\ODB\odb\steps\pcb\layers\drill\tools
+DocumentPath=Released\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Released\NC Drill\TSAL_REV2_2.DRR
+DocumentPath=Released\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Released\Gerber\TSAL_REV2_2.EXTREP
+DocumentPath=Released\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Released\NC Drill\TSAL_REV2_2.LDP
+DocumentPath=Released\NC Drill\TSAL_REV2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Released\Gerber\TSAL_REV2_2.REP
+DocumentPath=Released\Gerber\TSAL_REV2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Released\ODB\TSAL_REV2_2.REP
+DocumentPath=Released\NC Drill\TSAL_REV2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Released\Gerber\TSAL_REV2_2.RUL
+DocumentPath=Released\Gerber\TSAL_REV2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
+DocumentPath=Released\ODB\TSAL_REV2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Released\Gerber\TSAL_REV2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Released\NC Drill\TSAL_REV2.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Released\NC Drill\TSAL_REV2_2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Released\Gerber\TSAL_REV2_2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Released\NC Drill\TSAL_REV2_2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Released\Gerber\TSAL_REV2_2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Released\ODB\TSAL_REV2_2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Released\Gerber\TSAL_REV2_2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument40]
 DocumentPath=Released\NC Drill\TSAL_REV2_2.TXT
 DItemRevisionGUID=
 
@@ -252,7 +288,7 @@ ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for TSAL_REV2
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -793,6 +829,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
