@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=D1 GATE_CTRL NewDesignator=D1
+Change Component Designator: OldDesignator=D2 5V_TS NewDesignator=D2
+Change Component Designator: OldDesignator=JP1 GATE_CTRL NewDesignator=JP1
+Change Component Designator: OldDesignator=JP2 D+12V_LV NewDesignator=JP2
+Change Component Designator: OldDesignator=JP3 VCU_ACTIVE NewDesignator=JP3
+Change Component Designator: OldDesignator=JP4 LV_GND NewDesignator=JP4
+Change Component Designator: OldDesignator=JP5 COMP_OUT NewDesignator=JP5
+Change Component Designator: OldDesignator=JP6 D+5V_TS NewDesignator=JP6
+Added Member To Class: ClassName=TSAL_REV2 Member=Component C1 2.2uF 450V
+Added Member To Class: ClassName=TSAL_REV2 Member=Component JP1 Testpoint2
+Added Member To Class: ClassName=TSAL_REV2 Member=Component R6 1K 1%

@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=TS Pin=JP3 TS-1
+Removed Pin From Net: NetName=D+60V_HV Pin=JP4 D+60V_HV-1
+Removed Pin From Net: NetName=HV_GND Pin=JP5 HV_GND-1
+Removed Member From Class: ClassName=TSAL_REV2_2 Member=JP3 TS
+Removed Member From Class: ClassName=TSAL_REV2_2 Member=JP4 D+60V_HV
+Change Component Footprint: Designator=U3 Old Footprint=DPAK-TO252 New Footprint=SOT-89
+Change Component Comment : Designator=U3 Old Comment=NCV5501DT50RKGOSCT-ND New Comment=NCP785AH50T1GOSCT-ND
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=JP1 D+12V_LV NewDesignator=JP2
+Change Component Designator: OldDesignator=JP2 LV_GND NewDesignator=JP4
+Change Component Designator: OldDesignator=JP5 HV_GND NewDesignator=JP5
+Change Component Designator: OldDesignator=JP6 D+5V_TS NewDesignator=JP6
+Change component parameters: Designator = "U3" ("U3"); Footprint = "DPAK-TO252"; UniqueID = "\PHDLBPJO" ("\PHDLBPJO")
+Change component parameters (AddParameter): Name = "Accuracy"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-89"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.onsemi.com/pub/Collateral/NCP785A-D.PDF?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub/Collateral/NCP785A-D.PDF?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1948370.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1948370.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/datasheets/1948370.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/1948370.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://uk.rs-online.com/webdocs/141c/0900766b8141c022.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://uk.rs-online.com/webdocs/141c/0900766b8141c022.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://www.onsemi.com/pub/Collateral/NCP785A-D.PDF?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.onsemi.com/pub/Collateral/NCP785A-D.PDF?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.mouser.com/ds/2/308/NCP785A-D-532012.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.mouser.com/ds/2/308/NCP785A-D-532012.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.farnell.com/datasheets/2578399.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.farnell.com/datasheets/2578399.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8Description"; Value = "http://www.onsemi.com/pub/Collateral/NCP785A-D.PDF?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8URL"; Value = "http://www.onsemi.com/pub/Collateral/NCP785A-D.PDF?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin,Matte"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "NCP785AH120T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Input Voltage"; Value = "450V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Input Voltage (DC)"; Value = "450V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Current"; Value = "10mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Current Limit"; Value = "10.5mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Input Voltage"; Value = "85V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Input Voltage (DC)"; Value = "55V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Output Voltage"; Value = "12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "10mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Positive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "70dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.83, 10=0.738, 25=0.7, 100=0.5375, 250=0.475, 500=0.45, 1000=0.35 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "22uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Voltage"; Value = "1.25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1643"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "NCP785AH50T1GOSDKR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.004603oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "2.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(TP2)
+Added Component: Designator=JP3(TP2)
+Added Pin To Net: NetName=GATE_CTRL Pin=JP1-1
+Added Pin To Net: NetName=VCU_ACTIVE Pin=JP3-1
+Added Pin To Net: NetName=COMP_OUT Pin=JP5-1
+Change Class Name : Old Net Name=TSAL_REV2_2 New Net Name=TSAL_REV2
+Added Member To Class: ClassName=TSAL_REV2 Member=Component JP1 Testpoint2
+Added Member To Class: ClassName=TSAL_REV2 Member=Component JP3 Testpoint2
