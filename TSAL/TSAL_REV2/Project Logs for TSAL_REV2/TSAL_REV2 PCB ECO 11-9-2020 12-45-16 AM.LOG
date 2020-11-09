@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=D+12V_LV Pin=JP2 D+12V_LV-1
+Removed Member From Class: ClassName=LV Member=D+12V_LV
+Removed Member From Class: ClassName=HV Member=D+60V_HV
+Change Net Name : Old Net Name=D+12V_LV New Net Name=D+LV
+Change Net Name : Old Net Name=D+60V_HV New Net Name=D+HV
+Added Pin To Net: NetName=D+12V_LV Pin=JP2 D+12V_LV-1
+Added Net: Name=D+12V_LV
+Added Member To Class: ClassName=TSAL_REV2 Member=Component C1 2.2uF 450V
+Added Member To Class: ClassName=TSAL_REV2 Member=Component R6 1K 1%
+Added Member To Class: ClassName=HV Member=Wire D+HV
+Added Member To Class: ClassName=LV Member=Wire D+LV
