@@ -17,8 +17,8 @@ From  : Variant [[No Variations]] of PCB Document [AIL_REV2.PcbDoc]
    Generated File[AIL_REV2.GKO]
    Generated File[AIL_REV2.GPT]
    Generated File[AIL_REV2.GPB]
-   Generated File[AIL_REV2.1]
    Generated File[AIL_REV2.GML]
+   Generated File[AIL_REV2.1]
    Generated File[AIL_REV2.RUL]
    Generated File[AIL_REV2.EXTREP]
    Generated File[AIL_REV2.REP]
@@ -27,4 +27,4 @@ From  : Variant [[No Variations]] of PCB Document [AIL_REV2.PcbDoc]
 Files Generated   : 21
 Documents Printed : 0
 
-Finished Output Generation At 10:28:30 PM On 11/1/2020
+Finished Output Generation At 12:01:21 AM On 11/9/2020

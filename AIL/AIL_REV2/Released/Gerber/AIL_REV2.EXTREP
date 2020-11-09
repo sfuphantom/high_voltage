@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: AIL_REV2.GBR   11/1/2020  10:28:29 PM
+Gerber File Extension Report For: AIL_REV2.GBR   11/9/2020  12:01:19 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -22,6 +22,6 @@ Layer Extension     Layer Description
 .GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
-.1                  Dielectric 1                            
 .GML                Multi-Layer                             
+.1                  Dielectric 1                            
 ------------------------------------------------------------------------------------------
