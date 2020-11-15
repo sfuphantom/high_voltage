@@ -4,27 +4,27 @@ C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\Pick Pl
 ========================================================================================================================
 File Design Information:
 
-Date:       09/11/20
-Time:       00:01
-Revision:   753fbdf960a3b159b85b3e85a75c78465ecd85d8
+Date:       14/11/20
+Time:       22:19
+Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mil
 
 Designator     Comment              Layer    Footprint Center-X(mil) Center-Y(mil) Rotation Description                        
-MH4            MountingHole         TopLayer MH4.2MM   2400.000      160.000       0        "Mounting hole, 4.2mm"             
-MH3            MountingHole         TopLayer MH4.2MM   160.000       1220.000      0        "Mounting hole, 4.2mm"             
+MH4            MountingHole         TopLayer MH4.2MM   1217.953      160.000       0        "Mounting hole, 4.2mm"             
+MH3            MountingHole         TopLayer MH4.2MM   160.000       1021.102      0        "Mounting hole, 4.2mm"             
 MH2            MountingHole         TopLayer MH4.2MM   160.000       160.000       0        "Mounting hole, 4.2mm"             
-MH1            MountingHole         TopLayer MH4.2MM   2400.000      1220.000      0        "Mounting hole, 4.2mm"             
+MH1            MountingHole         TopLayer MH4.2MM   1217.953      1021.102      0        "Mounting hole, 4.2mm"             
 "JP2 D+5V_TS"  Testpoint2           TopLayer TP2       1061.000      590.000       0        "Single layer pad TP"              
-"JP1 HIGH_OUT" Testpoint2           TopLayer TP2       1215.500      700.000       0        "Single layer pad TP"              
+"JP1 HIGH_OUT" Testpoint2           TopLayer TP2       1111.065      771.883       0        "Single layer pad TP"              
 U2             NCP785AH50T1GOSCT-ND TopLayer SOT-89    800.000       372.087       90       "IC REG LINEAR 5V 10MA SOT89-3"    
 U1             497-6777-1-ND        TopLayer SOT-23-5  942.598       643.150       270      "IC COMPARATOR R-R MCRPWR SOT23-5" 
 R4             280R                 TopLayer RES-0805  824.567       220.000       0        "RES SMD 280 OHM 1% 1/8W 0805"     
 R3             10K                  TopLayer RES-0805  820.000       655.433       90       "RES SMD 10K OHM 1% 1/8W 0805"     
 R2             665R                 TopLayer RES-0603  1080.000      700.000       0        "RES SMD 665 OHM 1% 1/10W 0603"    
 R1             110K                 TopLayer RES-0805  740.000       655.433       270      "RES SMD 110K OHM 1% 1/8W 0805"    
-J2             WM4153-ND            TopLayer 2PIN      200.000       710.000       270      "CONN HEADER R/A 2POS 2.54MM"      
-J1             WM4153-ND            TopLayer 2PIN      2290.000      750.000       90       "CONN HEADER R/A 2POS 2.54MM"      
+J2             WM4153-ND            TopLayer 2PIN      175.000       594.244       270      "CONN HEADER R/A 2POS 2.54MM"      
+J1             WM4153-ND            TopLayer 2PIN      1200.787      593.394       90       "CONN HEADER R/A 2POS 2.54MM"      
 F1             "250V 800mA"         TopLayer Fuse-10x3 470.000       620.000       360      "FUSE SMT 3912 FAST 250V 800MA"    
 D1             Green                TopLayer LED-0603  818.504       150.000       180      "LED GREEN CLEAR 0603 SMD"         
 C2             22uF                 TopLayer CAP-0805  830.000       300.000       0        "CAP CER 22UF 10V X5R 0805"        
