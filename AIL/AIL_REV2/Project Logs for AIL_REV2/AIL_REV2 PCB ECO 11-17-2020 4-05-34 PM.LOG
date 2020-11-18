@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=HIGH_OUT Pin=J1-1
+Removed Pin From Net: NetName=HV_GND Pin=J1-2
+Removed Pin From Net: NetName=HV_GND Pin=J2-1
+Removed Pin From Net: NetName=D+HV Pin=J2-2
+Added Pin To Net: NetName=HV_GND Pin=J1-1
+Added Pin To Net: NetName=HIGH_OUT Pin=J1-2
+Added Pin To Net: NetName=D+HV Pin=J2-1
+Added Pin To Net: NetName=HV_GND Pin=J2-2

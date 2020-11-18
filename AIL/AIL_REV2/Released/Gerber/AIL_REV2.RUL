@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Gaming\Desktop\AIL_REV2\AIL_REV2.PcbDoc
+DRC Rules Export File for PCB: C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\AIL_REV2.PcbDoc
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95

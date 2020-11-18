@@ -10,13 +10,13 @@ Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2
 
 Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\attrlist
 
-Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\bottom_paste\features
-
-Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
-
 Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\keep-out_layer\features
 
 Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
 
 Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\bottom_solder\features
 
@@ -34,10 +34,6 @@ Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2
 
 Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\top_paste\attrlist
 
-Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\top_solder\features
-
-Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\top_solder\attrlist
-
 Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\top_layer\features
 
 Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\top_layer\attrlist
@@ -45,6 +41,10 @@ Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2
 Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\top_overlay\features
 
 Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\top_solder\attrlist
 
 Generated File : C:\Users\Gaming\Documents\TeamPhantom\high_voltage\AIL\AIL_REV2\Released\ODB\odb\steps\pcb\layers\drill\features
 
