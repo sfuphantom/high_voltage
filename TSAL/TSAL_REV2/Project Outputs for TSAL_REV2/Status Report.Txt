@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TSAL_REV2.PrjPcb]
+   Generated File[TSAL_REV2.TXT]
+   Generated File[TSAL_REV2.LDP]
+   Generated File[TSAL_REV2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:23:42 PM On 2020-11-21
