@@ -9,22 +9,15 @@ From  : Variant [[No Variations]] of PCB Document [AIL_REV2.PcbDoc]
    Generated File[AIL_REV2.GBS]
    Generated File[AIL_REV2.GBP]
    Generated File[AIL_REV2.GBO]
-   Generated File[AIL_REV2.GM1]
    Generated File[AIL_REV2.GM2]
    Generated File[AIL_REV2.GM3]
-   Generated File[AIL_REV2.GM13]
-   Generated File[AIL_REV2.GM15]
    Generated File[AIL_REV2.GKO]
-   Generated File[AIL_REV2.GPT]
-   Generated File[AIL_REV2.GPB]
-   Generated File[AIL_REV2.GML]
-   Generated File[AIL_REV2.1]
    Generated File[AIL_REV2.RUL]
    Generated File[AIL_REV2.EXTREP]
    Generated File[AIL_REV2.REP]
 
 
-Files Generated   : 21
+Files Generated   : 14
 Documents Printed : 0
 
-Finished Output Generation At 4:31:08 PM On 11/17/2020
+Finished Output Generation At 4:08:27 PM On 11/21/2020
