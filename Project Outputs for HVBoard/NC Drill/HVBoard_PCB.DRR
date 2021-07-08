@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: HVBoard_PCB.PcbDoc   2021-07-08  12:05:19 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HVBoard_PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.25mm)                                            Round             477       PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             27        PTH        0.00inch (0.00mm)
+T3      44mil (1.11mm)                                            Round             24        PTH        0.00inch (0.00mm)
+T4      45mil (1.15mm)                                            Round             9         PTH        0.00inch (0.00mm)
+T5      47mil (1.2mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T6      73mil (1.85mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T7      87mil (2.2mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T8      94mil (2.4mm)                                             Round             7         PTH        0.00inch (0.00mm)
+T9      102mil (2.6mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T10     122mil (3.1mm)                                            Round             3         PTH        0.00inch (0.00mm)
+T11     134mil (3.4mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T12     159mil (4.05mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T13     165mil (4.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T14     197mil (5mm)                                              Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              579
+
+Total Processing Time (hh:mm:ss) : 00:00:00
