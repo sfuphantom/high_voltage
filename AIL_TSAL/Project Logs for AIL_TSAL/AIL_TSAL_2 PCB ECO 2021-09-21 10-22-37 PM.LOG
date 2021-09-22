@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=HV+ Pin=F1-1
+Removed Pin From Net: NetName=Rin Pin=F1-2
+Removed Member From Class: ClassName=TSAL_2_Schem Member=F1
+Added Component: Designator=F?(Fuse-11.2x5.05)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HV+ Pin=F?-1
+Added Pin To Net: NetName=Rin Pin=F?-2
+Added Member To Class: ClassName=TSAL_2_Schem Member=Component F? Fuse 450V - 5A
+Added Member To Class: ClassName=TSAL_2_Schem Member=Component J2 LV
+Added Member To Class: ClassName=TSAL_2_Schem Member=Component J3 Lights Out
+Added Room: Name=TSAL_2_Schem

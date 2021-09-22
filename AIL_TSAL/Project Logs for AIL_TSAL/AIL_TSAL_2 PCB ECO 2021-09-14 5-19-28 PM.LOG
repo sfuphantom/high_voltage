@@ -1,0 +1,13 @@
+Change Component Comment : Designator=J4 Old Comment=WM4153-ND New Comment=Green LED
+Change Component Comment : Designator=J1 Old Comment=WM4153-ND New Comment=HV
+Change Component Comment : Designator=J2 Old Comment=WM4153-ND New Comment=LV
+Change Component Comment : Designator=J3 Old Comment=WM4153-ND New Comment=Red LED
+Added Pin To Net: NetName=LV GND Pin=J2-1
+Change Net Name : Old Net Name=HV GND New Net Name=Cathode
+Change Net Name : Old Net Name=LV GND New Net Name=Emitter
+Change Net Name : Old Net Name=NetF1_2 New Net Name=Rin
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=N Drain
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=Collector
+Change Net Name : Old Net Name=NetR1_1 New Net Name=Input
+Added Pin To Net: NetName=Anode Pin=R3-2
+Added Net: Name=Anode

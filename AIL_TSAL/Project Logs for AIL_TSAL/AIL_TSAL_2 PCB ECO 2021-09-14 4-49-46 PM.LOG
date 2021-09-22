@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ4_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ3_2
+Added Member To Class: ClassName=AIL_TSAL_2_Schem Member=Component J2 WM4153-ND
+Added Member To Class: ClassName=AIL_TSAL_2_Schem Member=Component J3 WM4153-ND
+Added Member To Class: ClassName=AIL_TSAL_2_Schem Member=Component J4 WM4153-ND
+Added Member To Class: ClassName=AIL_TSAL_2_Schem Member=Component Q? NTD2955T4G
+Added Member To Class: ClassName=AIL_TSAL_2_Schem Member=Component R? 1K OHm
+Added Member To Class: ClassName=AIL_TSAL_2_Schem Member=Component R? 50K
+Added Member To Class: ClassName=AIL_TSAL_2_Schem Member=Component R? 560 Ohm

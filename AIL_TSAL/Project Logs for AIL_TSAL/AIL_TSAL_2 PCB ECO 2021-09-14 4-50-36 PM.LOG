@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Added Member To Class: ClassName=AIL_TSAL_2_Schem Member=Component Q2 IPD50N06S4L-12
+Added Member To Class: ClassName=AIL_TSAL_2_Schem Member=Component R2 1K OHm
+Added Member To Class: ClassName=AIL_TSAL_2_Schem Member=Component R3 240R
+Added Member To Class: ClassName=AIL_TSAL_2_Schem Member=Component R4 560 Ohm
