@@ -1,0 +1,9 @@
+Added Component: Designator=J1(4 Pin Header)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "609-5286-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=Output Pin=J1-3
+Added Pin To Net: NetName=Vref Pin=J1-4
+Added Member To Class: ClassName=Current Transducer Member=Component J1 Molex 4 Pin Header

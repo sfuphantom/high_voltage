@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Current Transducer PCB.PcbDoc   2020-02-02  12:54:27 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Current Transducer PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      30mil (0.762mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T2      43mil (1.1mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T3      142mil (3.6mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T4      157mil (4mm)                                              Round             4         PTH        0.00inch (0.00mm)
+T5      906mil (23mm)                                             Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              14
+
+Total Processing Time (hh:mm:ss) : 00:00:00

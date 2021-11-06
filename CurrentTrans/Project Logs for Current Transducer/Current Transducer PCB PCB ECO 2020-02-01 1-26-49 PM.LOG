@@ -1,0 +1,12 @@
+Change Component Comment : Designator=C1 Old Comment=C? New Comment=47nF
+Change Component Comment : Designator=C2 Old Comment=C? New Comment=47nF
+Change Component Comment : Designator=C3 Old Comment=C? New Comment=47nF
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=Output Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=Vref Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-1
